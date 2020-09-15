@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
 body {
     background-image: url("background-img.png");
 }
@@ -11,6 +13,7 @@ body {
 #question {
     border-radius: 10px;
     color: black;
+    font-family: Dialog, cursive;
 }
 
 #cards-container {
@@ -24,6 +27,7 @@ body {
     border-radius: 15px;
     padding: 10px 5px 5px;
     font-size: 25px;
+    font-family: 'Architects Daughter', cursive;
     background-color: bisque;
     color: blue;
 }
